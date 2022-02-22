@@ -1,0 +1,10 @@
+{
+    "id": "0x0E58c196e4F0B23e752cDF544c194cacBbc0afE8",
+    "name": "PRINT",
+    "symbol": "PRINT",
+    "type": "BEP20",
+    "decimals": 9,
+    "explorer": "https://bscscan.com/token/0x0E58c196e4F0B23e752cDF544c194cacBbc0afE8", 
+    "reflections": true,
+    "description": "The Money Printing Machine!",
+}
